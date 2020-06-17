@@ -1,0 +1,768 @@
+industry,index,s1,r,s2
+automotiveEngineering,0,vehicle,with,combustion engine
+automotiveEngineering,0,vehicle,with,Luddite
+automotiveEngineering,0,Benz,experience,EQC — EQC
+automotiveEngineering,0,Benz,experience,Mercedes
+automotiveEngineering,0,Benz,experience,Benz
+automotiveEngineering,0,Mercedes,of,EVs
+automotiveEngineering,0,Benz,of,EVs
+automotiveEngineering,0,Benz,of,California look
+automotiveEngineering,0,EVs,of,adopters
+automotiveEngineering,0,SUV,of,rain
+automotiveEngineering,1,Ford,for,shifter cables
+automotiveEngineering,1,United States,for,shifter cables
+automotiveEngineering,1,United States,for,rollaways
+automotiveEngineering,1,Fusion,for,shifter cables
+automotiveEngineering,1,Escape models,for,shifter cables
+automotiveEngineering,1,Fusion,with,National Highway Traffic Safety Administration
+automotiveEngineering,1,Escape models,with,National Highway Traffic Safety Administration
+automotiveEngineering,1,recall filing,with,National Highway Traffic Safety Administration
+automotiveEngineering,1,recall filing,with,NHTSA
+automotiveEngineering,1,driver,switching,park
+automotiveEngineering,2,Mercedes,out of,Mercedes
+automotiveEngineering,2,Benz,might move,Benz Alabama plant
+automotiveEngineering,2,Benz,out of,Mercedes
+automotiveEngineering,2,Benz,out of,Benz Alabama plant
+automotiveEngineering,2,C,out of,Mercedes
+automotiveEngineering,2,C,out of,Benz Alabama plant
+automotiveEngineering,2,Class production,out of,Mercedes
+automotiveEngineering,2,Class production,out of,Benz Alabama plant
+automotiveEngineering,2,Mercedes,with,situation
+automotiveEngineering,2,Benz Alabama plant,with,situation
+automotiveEngineering,3,VCNBC | Mack HoganCadillac,of,auto
+automotiveEngineering,3,VCNBC | Mack HoganCadillac,of,General Motors
+automotiveEngineering,3,BMW,with,sports sedans
+automotiveEngineering,3,BMW,of,sports sedans
+automotiveEngineering,3,Mercedes,with,sports sedans
+automotiveEngineering,3,Mercedes,of,sports sedans
+automotiveEngineering,3,V,accomplished,Cadillac mission
+automotiveEngineering,3,Cadillac,accomplished,Cadillac mission
+automotiveEngineering,4,company,of,citroen
+automotiveEngineering,4,courtesy,of,citroen
+automotiveEngineering,4,helicopter,as,seventies
+automotiveEngineering,4,glass,of,inch wheels
+automotiveEngineering,4,inch wheels,of,road
+automotiveEngineering,4,passengers,of,road
+automotiveEngineering,4,view,of,road
+automotiveEngineering,4,collaboration,with,goodyear
+automotiveEngineering,4,collaboration,with,mudguards
+automotiveEngineering,4,mudguards,of,body
+automotiveEngineering,5,Los Angeles auto show,cemented,Mazda
+automotiveEngineering,5,automaker,with,platform
+automotiveEngineering,5,levels,of,driver assist tech
+automotiveEngineering,5,comfort,of,driver assist tech
+automotiveEngineering,5,comfort,of,infotainment system
+automotiveEngineering,5,list,of,driver assist tech
+automotiveEngineering,5,list,of,infotainment system
+automotiveEngineering,5,driver assist tech,updated,infotainment system
+automotiveEngineering,5,driver assist tech,updated,screen
+automotiveEngineering,5,driver assist tech,featuring,screen
+automotiveEngineering,6,Mercedes EQC crossover SUV,with,t
+automotiveEngineering,6,t,for,press launch
+automotiveEngineering,6,kettle,after,city
+automotiveEngineering,6,Mercedes,of,course
+automotiveEngineering,6,Mercedes,of,name
+automotiveEngineering,6,Mercedes,of,car business
+automotiveEngineering,6,car business,of,world
+automotiveEngineering,6,car business,of,brand
+automotiveEngineering,7,Kia Kia Tuesday,of,Kia
+automotiveEngineering,7,Kia Kia Tuesday,of,SUV
+automotiveEngineering,7,Kia idea,of,Kia Kia
+automotiveEngineering,7,Kia idea,of,market
+automotiveEngineering,7,SUV,of,markets
+automotiveEngineering,7,Kia,of,Kia SP Signature Concept
+automotiveEngineering,7,Kia,from,Kia SP Signature Concept
+automotiveEngineering,7,boatload,of,Kia SP Signature Concept
+automotiveEngineering,7,boatload,of,Seoul Motor Show
+automotiveEngineering,7,boatload,from,Seoul Motor Show
+automotiveEngineering,8,buyers,of,Shelby
+automotiveEngineering,8,Shelby,of,base
+automotiveEngineering,8,buyers,of,base
+automotiveEngineering,8,Mustang platform,of,performance
+automotiveEngineering,8,Mustang platform,of,forthcoming
+automotiveEngineering,8,forthcoming,with,performance limits
+automotiveEngineering,9,Birò,during,Milan design week
+automotiveEngineering,9,Birò,during,plastics
+automotiveEngineering,9,Milan design week,of,Estrima
+automotiveEngineering,9,plastics,of,Birò
+automotiveEngineering,9,Birò,of,car
+automotiveEngineering,10,Pininfarina,with,design house
+automotiveEngineering,10,Pininfarina,with,SSM
+automotiveEngineering,10,Pininfarina,with,slung headlights
+automotiveEngineering,10,design house,with,slung headlights
+automotiveEngineering,10,SSM,with,slung headlights
+automotiveEngineering,11,Chevrolet Aerovette,with,Chevrolet Aerovette
+automotiveEngineering,11,start,with,Chevrolet Aerovette
+automotiveEngineering,11,engine ‘ Vette prototypes,of,Corvette engineer Zora Arkus
+automotiveEngineering,11,engine ‘ Vette prototypes,of,Duntov
+automotiveEngineering,11,engine ‘ Vette prototypes,of,Aerovette
+automotiveEngineering,11,engine configuration,of,Wankel
+automotiveEngineering,11,Chevrolet Corvette,of putting,powerplant
+automotiveEngineering,12,SEED GT concept car,alongside,e
+automotiveEngineering,12,Song Pro SUV,alongside,Shanghai International Automobile Industry Exhibition
+automotiveEngineering,12,BNA,of,Dual Mode technology
+automotiveEngineering,12,BNA,of,platform framework
+automotiveEngineering,12,generation,of,Dual Mode technology
+automotiveEngineering,12,generation,of,platform framework
+automotiveEngineering,12,intersection,of,energy conversion
+automotiveEngineering,12,intersection,of,mobility
+automotiveEngineering,12,intersection,of,point
+automotiveEngineering,12,electrification,of,strategies
+automotiveEngineering,13,luxury,with,concept car
+automotiveEngineering,13,car mold,with,concept car
+automotiveEngineering,13,preview event,of,Mint
+automotiveEngineering,13,preview event,of,unveiling
+automotiveEngineering,13,vice president,of,SangYup Lee
+automotiveEngineering,13,Manfred Fitzgerald,of,SangYup Lee
+automotiveEngineering,13,Hyundai,of,SangYup Lee
+automotiveEngineering,13,head,of,SangYup Lee
+automotiveEngineering,14,seater,with,wing doors
+automotiveEngineering,14,HabaNiro,for,vehicles
+automotiveEngineering,14,HabaNiro,for,Niro
+automotiveEngineering,14,HabaNiro,beyond,Niro
+automotiveEngineering,14,outside,of,HabaNiro
+automotiveEngineering,14,HabaNiro,includes,HabaNiro sides
+automotiveEngineering,14,HabaNiro,includes,shark
+automotiveEngineering,14,HabaNiro sides,with,Kia
+automotiveEngineering,14,shark,with,Kia
+automotiveEngineering,14,Kia,with,aluminum
+automotiveEngineering,15,Porsche,slots between,Turbo
+automotiveEngineering,15,Cayenne S coupe,slots between,base model
+automotiveEngineering,15,Cayenne S coupe,slots between,Turbo
+automotiveEngineering,15,Cayenne S coupe,slots between,Cayenne coupe lineup
+automotiveEngineering,15,Porsche,of,base Cayenne
+automotiveEngineering,15,Porsche,of,Cayenne
+automotiveEngineering,15,Porsche,of,S coupe
+automotiveEngineering,16,Porsche,with,range model
+automotiveEngineering,16,Cayenne Coupe line,with,range model
+automotiveEngineering,16,Cayenne Coupe line,with,Porsche slots
+automotiveEngineering,16,Porsche slots,between,level Cayenne Coupe
+automotiveEngineering,16,Cayenne S Coupe,of,Porsche family
+automotiveEngineering,16,Cayenne S,of,Porsche family
+automotiveEngineering,16,engine,from,rpm
+automotiveEngineering,16,range model,with,Sport Chrono package
+automotiveEngineering,16,range model,with,Porsche
+automotiveEngineering,17,debut,of,base Cayenne Coupe
+automotiveEngineering,17,slung hatchback profile,from,roofline
+automotiveEngineering,17,coupe trims,from,roofline
+automotiveEngineering,17,Cayenne S,that,Coupe
+automotiveEngineering,17,Coupe,arriving,Sport Chrono pack
+automotiveEngineering,17,Coupe,with,control
+automotiveEngineering,17,Coupe,with,Sport Chrono pack
+automotiveEngineering,17,Coupe,adding,Sport Chrono pack
+automotiveEngineering,17,standard,with,Sport Chrono pack
+automotiveEngineering,18,Audi,of,ImageAudi
+automotiveEngineering,18,Audi,of,Audi
+automotiveEngineering,18,Audi,of,Singleframe front grille design
+automotiveEngineering,18,wider,of,Singleframe front grille design
+automotiveEngineering,18,Audi,with,element
+automotiveEngineering,18,Singleframe front grille design,with,element
+automotiveEngineering,18,LED headlights,with,element
+automotiveEngineering,19,MHEV,from,electrification
+automotiveEngineering,19,emissions,with,TDI
+automotiveEngineering,19,g / km,with,TDI
+automotiveEngineering,19,g / mi,with,TDI
+automotiveEngineering,19,TDI,for,system
+automotiveEngineering,19,TDI,for,powered compressor
+automotiveEngineering,20,Key PointsFord Motor,of,Fusion vehicles
+automotiveEngineering,20,recall,of,Fusion vehicles
+automotiveEngineering,20,recall,of,North America
+automotiveEngineering,20,Ford,of,property damage
+automotiveEngineering,20,Ford,of,injury
+automotiveEngineering,20,Jeff Michigan | Bloomberg | Key PointsFord Motor,that,Key PointsFord Motor
+automotiveEngineering,20,Wednesday,that,Fusion vehicles
+automotiveEngineering,20,Fusion vehicles,with,automaker
+automotiveEngineering,20,Fusion vehicles,with,Flat Rock
+automotiveEngineering,20,Fusion vehicles,with,Michigan Michigan
+automotiveEngineering,21,Benz,began building,Mercedes
+automotiveEngineering,21,Benz,began building,Benz C
+automotiveEngineering,21,Benz,began building,Vance
+automotiveEngineering,21,room,for,SUVs
+automotiveEngineering,21,room,of,vehicles Americans
+automotiveEngineering,21,room,of,SUVs
+automotiveEngineering,21,types,of,SUVs
+automotiveEngineering,21,selling sedan,for,production
+automotiveEngineering,21,selling sedan,for,market
+automotiveEngineering,21,Alabama,for,Mercedes
+automotiveEngineering,22,Vance,out of,SUVs
+automotiveEngineering,22,Joe Songer,By,Benz
+automotiveEngineering,22,class sedan production,of,Automotive News
+automotiveEngineering,22,Vance,of,Automotive News
+automotiveEngineering,22,SUV,expanded from,consumer standpoint
+automotiveEngineering,22,consumer standpoint,of,forecasting
+automotiveEngineering,22,Jeff Schuster,of,forecasting
+automotiveEngineering,22,Jeff Schuster,of,LMC
+automotiveEngineering,22,president,of,forecasting
+automotiveEngineering,22,president,of,LMC
+automotiveEngineering,23,Citroën,with,concept car
+automotiveEngineering,23,Citroën,with,denoting
+automotiveEngineering,23,anniversary,with,concept car
+automotiveEngineering,23,anniversary,with,denoting
+automotiveEngineering,23,Wankel,from,glass cabin
+automotiveEngineering,23,Citroën RE-2 helicopter,from,glass cabin
+automotiveEngineering,23,motors,of,mph
+automotiveEngineering,23,nm,of,torque — capable
+automotiveEngineering,23,nm,of,mph
+automotiveEngineering,24,centenary,of,Citroën
+automotiveEngineering,24,lemon,of,century
+automotiveEngineering,24,company,of,wheel drive
+automotiveEngineering,24,pioneers,of,wheel drive
+automotiveEngineering,24,pioneers,of,suspension systems
+automotiveEngineering,24,element,of,Citroën
+automotiveEngineering,24,Citroëns float,of,suspension systems
+automotiveEngineering,24,chaos,of,suspension systems
+automotiveEngineering,24,Royce,licensed,Royce system
+automotiveEngineering,24,living room,of,Citroën Advanced Comfort ® programme
+automotiveEngineering,25,anniversary,of,mobility
+automotiveEngineering,25,Citroën,of,mobility
+automotiveEngineering,25,Citroën,of,Paris
+automotiveEngineering,25,Citroën,of,comfort
+automotiveEngineering,25,brand,of,mobility
+automotiveEngineering,25,anniversary,with,drivetrain
+automotiveEngineering,25,car,with,drivetrain
+automotiveEngineering,25,future,with,drivetrain
+automotiveEngineering,25,future,with,assistant
+automotiveEngineering,26,gen S,of,undertakings
+automotiveEngineering,26,history,of,Benz
+automotiveEngineering,26,Mercedes,like,Golf
+automotiveEngineering,26,Mercedes,for,Golf
+automotiveEngineering,26,pixel view,like,tablet
+automotiveEngineering,26,tablet,of,driver
+automotiveEngineering,26,tablet,of,function
+automotiveEngineering,26,spy video,from,WalkoArt
+automotiveEngineering,27,Mazda brings,of,photographers
+automotiveEngineering,27,generation,of,world
+automotiveEngineering,27,automaker,of,world
+automotiveEngineering,27,automaker,of,photographer John Rankin Waddell
+automotiveEngineering,27,services,of,Rankin
+automotiveEngineering,27,photographer John Rankin Waddell,known,Rankin
+automotiveEngineering,27,photographer John Rankin Waddell,as,Rankin
+automotiveEngineering,28,Nissan,of,buyers
+automotiveEngineering,28,Nissan,used,niche market
+automotiveEngineering,28,niche market,limited,rangers
+automotiveEngineering,28,niche market,limited,belt drivers
+automotiveEngineering,28,automakers,of,wheel drive
+automotiveEngineering,28,automakers,with,wheel drive
+automotiveEngineering,28,automakers sedans,with,wheel drive
+automotiveEngineering,28,automakers sedans,with,SUV
+automotiveEngineering,29,Tesla,for,Model X
+automotiveEngineering,29,Model X,for,SUV
+automotiveEngineering,29,Tesla,of,wheel
+automotiveEngineering,29,wheel,with,tone design
+automotiveEngineering,29,Model X,with,tone design
+automotiveEngineering,29,Tesla,of,Model X
+automotiveEngineering,29,range versions,of,Model X
+automotiveEngineering,30,set,of,Insurance Institute
+automotiveEngineering,30,Insurance Institute,for,Highway Safety
+automotiveEngineering,30,IIHS,that,hatchback
+automotiveEngineering,30,hatchback,of,Institute
+automotiveEngineering,30,hatchback,of,Top Safety Pick award
+automotiveEngineering,30,vehicle,of,crash tests
+automotiveEngineering,30,vehicle,of,addition
+automotiveEngineering,30,crash tests,of,vehicle headlights
+automotiveEngineering,30,Safety system evaluation,with,Superior rating
+automotiveEngineering,31,Puma,as,coupe
+automotiveEngineering,31,April,of,SUVs Ford Ford
+automotiveEngineering,31,SUVs Ford Ford,that,generation Kuga / Escape
+automotiveEngineering,31,SUVs Ford Ford,that,Europe
+automotiveEngineering,31,generation Kuga / Escape,previewed,Puma
+automotiveEngineering,31,Blue Oval,previewed,Puma
+automotiveEngineering,31,coupe,as,SUV
+automotiveEngineering,31,SUV version,of,generation
+automotiveEngineering,31,SUV version,of,America Fiesta
+automotiveEngineering,31,SUV version,for,America Fiesta
+automotiveEngineering,32,crossover,of,BMW
+automotiveEngineering,32,photos,from,spy photographer
+automotiveEngineering,32,end,of,slim LED headlights
+automotiveEngineering,32,BMW,existing,BMW i models
+automotiveEngineering,32,roofline,of,crossover
+automotiveEngineering,33,Trailblazer,from,issue driver safety systems
+automotiveEngineering,33,Trailblazer,of,issue driver safety systems
+automotiveEngineering,33,re ’ re ’ re,of,Trailblazer line
+automotiveEngineering,33,RS trim,of,Trailblazer line
+automotiveEngineering,33,Trailblazer line,that,tone
+automotiveEngineering,33,Trailblazer line,from,tone
+automotiveEngineering,33,Steve Majoros,of,Chevrolet passenger car
+automotiveEngineering,33,director,of,Chevrolet passenger car
+automotiveEngineering,33,Trailblazer,of,design language
+automotiveEngineering,33,Trailblazer,of,Chevy
+automotiveEngineering,34,Encore GX,released for,China market
+automotiveEngineering,34,SUV lineup Buick,existing,Encore
+automotiveEngineering,34,China market,existing,Encore
+automotiveEngineering,34,Nissan,with,Rogue
+automotiveEngineering,34,Nissan,with,Rogue Sport
+automotiveEngineering,34,strategy,with,Rogue
+automotiveEngineering,34,strategy,with,Rogue Sport
+automotiveEngineering,34,Encore GX,than,Encore
+automotiveEngineering,34,Encore,for,turbo
+automotiveEngineering,35,world,of,town
+automotiveEngineering,35,Audi,of,town
+automotiveEngineering,35,wheel,because,Audi
+automotiveEngineering,35,Audi,of,Audi ’ s Traffic Light Information system
+automotiveEngineering,35,Audi,of,TLI
+automotiveEngineering,35,version,of,TLI
+automotiveEngineering,35,TLI,taps into,traffic control system
+automotiveEngineering,36,sedan,of,car
+automotiveEngineering,36,startup,of,NIO
+automotiveEngineering,36,NIO,lost,SUV
+automotiveEngineering,36,NIO,of,news
+automotiveEngineering,36,NIO,of,SUV
+automotiveEngineering,36,deliveries,of,news
+automotiveEngineering,36,deliveries,of,SUV
+automotiveEngineering,36,Li,postponed during,investor call
+automotiveEngineering,37,inventories,of,level
+automotiveEngineering,37,Bank,of,America
+automotiveEngineering,37,Bank,of,industry data tracker Wards Intelligence
+automotiveEngineering,37,inventories,of,growth
+automotiveEngineering,37,inventories,of,Bank
+automotiveEngineering,37,source,of,Bank
+automotiveEngineering,37,percentage point,of,America economists Michelle Meyer
+automotiveEngineering,37,percentage point,of,Anna Zhou
+automotiveEngineering,37,Bank,of,America economists Michelle Meyer
+automotiveEngineering,37,Bank,of,Anna Zhou
+automotiveEngineering,38,SUV,like,appearance
+automotiveEngineering,38,SUV,like,Forester
+automotiveEngineering,38,SUV,like,station
+automotiveEngineering,38,SUV,like,wagon look
+automotiveEngineering,38,SUV,versus,wagon look
+automotiveEngineering,38,creates,with,Forester
+automotiveEngineering,38,wheel,with,Forester
+automotiveEngineering,38,wheel,with,windows
+automotiveEngineering,38,wheel,with,views
+automotiveEngineering,38,Forester,of,road
+automotiveEngineering,39,Ford Focus ST,resigned,hatch
+automotiveEngineering,39,debate,of,debate
+automotiveEngineering,39,Friday ’ s,of,debate
+automotiveEngineering,39,Friday ’ s,of,wood trim
+automotiveEngineering,39,Subaru Legacy GT wagon,of,debate
+automotiveEngineering,39,Subaru Legacy GT wagon,of,wood trim
+automotiveEngineering,39,Subaru Legacy GT wagon,of,interior
+automotiveEngineering,39,percent,of,car
+automotiveEngineering,39,percent,of,Crack Pipe loss
+automotiveEngineering,39,day,of,women
+automotiveEngineering,40,surprise,that,concept car
+automotiveEngineering,40,grille,needed for,car
+automotiveEngineering,40,grille,needed for,taillights
+automotiveEngineering,40,car,of,car
+automotiveEngineering,40,taillights,of,car
+automotiveEngineering,40,E,that,sheet metal body
+automotiveEngineering,40,tron GT concept,that,sheet metal body
+automotiveEngineering,40,tron GT concept,featured,sheet metal body
+automotiveEngineering,40,Audi,building,tourer
+automotiveEngineering,40,Audi,for,tourer
+automotiveEngineering,41,RX,redesigned,RX
+automotiveEngineering,41,Lexus,revised,Lexus
+automotiveEngineering,41,Lexus,revised,beam
+automotiveEngineering,41,Lexus,revised,LED headlights
+automotiveEngineering,41,Lexus,Coined as,beam
+automotiveEngineering,41,Lexus,Coined as,LED headlights
+automotiveEngineering,41,bumper,of,SUV
+automotiveEngineering,41,Lexus,open,rear hatch
+automotiveEngineering,41,Lexus,with,SUVs
+automotiveEngineering,41,Lexus,with,market
+automotiveEngineering,42,anniversary,of,event
+automotiveEngineering,42,Nuccio Bertone,consolidate,Nuccio Bertone
+automotiveEngineering,42,Nuccio Bertone,existing,surprise show car
+automotiveEngineering,42,Nuccio Bertone,with,BMW
+automotiveEngineering,42,Nuccio Bertone,with,surprise show car
+automotiveEngineering,42,BMW,for,Geneva Motor Show
+automotiveEngineering,42,surprise show car,for,Geneva Motor Show
+automotiveEngineering,42,Marcello Gandini,of,design department
+automotiveEngineering,43,Mercedes,engaging in,pocket rocket assault
+automotiveEngineering,43,Benz,engaging in,pocket rocket assault
+automotiveEngineering,43,Benz,engaging in,slew
+automotiveEngineering,43,pocket rocket assault,of,compact models
+automotiveEngineering,43,slew,of,compact models
+automotiveEngineering,43,MFA platform,spawn,GLB
+automotiveEngineering,43,generation GLA,compete against,Volvo
+automotiveEngineering,43,GLB,compete against,Volvo
+automotiveEngineering,44,Lexus LX,with,wheel drive
+automotiveEngineering,44,t,of,row
+automotiveEngineering,44,Lexus,better,Land Rover ’ s Range Rover
+automotiveEngineering,44,Lexus,better,Mercedes ’ G
+automotiveEngineering,44,Lexus,with,Land Rover ’ s Range Rover
+automotiveEngineering,44,Lexus,with,Mercedes ’ G
+automotiveEngineering,44,Lexus,with,Class
+automotiveEngineering,44,Mercedes ’ G,of,rows
+automotiveEngineering,44,LX,with,destination charges
+automotiveEngineering,44,LX,with,row model
+automotiveEngineering,45,Kia,with,Telluride
+automotiveEngineering,45,Telluride,of,Telluride SX model
+automotiveEngineering,45,tester,came with,Prestige package
+automotiveEngineering,45,Prestige package,adds,step
+automotiveEngineering,45,step,of,competitors
+automotiveEngineering,45,quality,of,size class
+automotiveEngineering,45,SX,fixed,sunroof
+automotiveEngineering,46,Jeep Wrangler,stand,kind vehicle
+automotiveEngineering,46,Jeep Wrangler,as,kind vehicle
+automotiveEngineering,46,Jeep Wrangler,of,kind vehicle
+automotiveEngineering,46,JL Wrangler,introduced,year
+automotiveEngineering,46,JL Wrangler,introduced,Wrangler ethos
+automotiveEngineering,46,JL Wrangler,stays,Wrangler ethos
+automotiveEngineering,46,Jeep,cut,Wrangler
+automotiveEngineering,46,Wrangler,for off,road enthusiasts
+automotiveEngineering,46,hardcore Rubicon,for,performance
+automotiveEngineering,46,hardcore Rubicon,for,body
+automotiveEngineering,47,months,with,CR
+automotiveEngineering,47,months,with,V LX
+automotiveEngineering,47,couple,of,thanks
+automotiveEngineering,47,CR,looks with,crossbars
+automotiveEngineering,47,CR,looks with,roof rails
+automotiveEngineering,47,V,looks with,roof rails
+automotiveEngineering,48,Toyota,of,generation
+automotiveEngineering,48,time machine,of,ignitions
+automotiveEngineering,48,time machine,of,gas mileage
+automotiveEngineering,48,sermon,of,Highlander
+automotiveEngineering,48,s VIN,complete,hour roast
+automotiveEngineering,48,s VIN,of,inquisitor
+automotiveEngineering,48,hour roast,of,inquisitor
+automotiveEngineering,48,hour roast,of,Oh
+automotiveEngineering,48,hour roast,reply,Oh
+automotiveEngineering,48,inquisitor,reply,Oh
+automotiveEngineering,49,Tesla,of,Communications
+automotiveEngineering,49,Director,of,Communications
+automotiveEngineering,49,Elon Musk,of,director
+automotiveEngineering,49,Twitter following,of,director
+automotiveEngineering,49,director,of,press inquiries
+automotiveEngineering,49,Tesla,of,Tesla
+automotiveEngineering,49,Tesla,of,century means
+automotiveEngineering,50,Trailblazer,place,Chevy
+automotiveEngineering,50,Trailblazer,place,crossover lineup
+automotiveEngineering,50,Trailblazer,of,Chevy
+automotiveEngineering,50,Trailblazer,of,crossover lineup
+automotiveEngineering,50,Trailblazer,borrows,Trailblazer
+automotiveEngineering,50,Trailblazer,borrows,Blazer
+automotiveEngineering,50,Trailblazer,from,Blazer
+automotiveEngineering,50,Trailblazer,from,curb appeal
+automotiveEngineering,50,Camaro,with,results
+automotiveEngineering,50,Trailblazer,highlighted by,contrasting roof
+automotiveEngineering,51,Subaru Forester,of,car
+automotiveEngineering,51,Toyota,of,car
+automotiveEngineering,51,Toyota,of,SUV market
+automotiveEngineering,51,pioneers,of,SUV market
+automotiveEngineering,51,Toyota,with,Toyota
+automotiveEngineering,52,member,of,Competition M2 Competition
+automotiveEngineering,52,Bimmerpost forum,that,Competition M2 Competition
+automotiveEngineering,52,coupe,of,Competition
+automotiveEngineering,52,Competition M2 Competition,of,Competition
+automotiveEngineering,52,Competition M2 Competition,of,replacement
+automotiveEngineering,52,MSRP,of,Competition
+automotiveEngineering,52,MSRP,of,coupe
+automotiveEngineering,52,MSRP,for,coupe
+automotiveEngineering,52,Competition,for,coupe
+automotiveEngineering,52,turbo unit,utilizes,carbon fiber strut
+automotiveEngineering,53,Volkswagen,struggles,Volkswagen mass
+automotiveEngineering,53,Volkswagen,struggles,market EVs
+automotiveEngineering,53,Volkswagen,for,Volkswagen mass
+automotiveEngineering,53,Volkswagen,for,market EVs
+automotiveEngineering,53,VW,revamp,VW plan
+automotiveEngineering,53,VW,revamp,power VW
+automotiveEngineering,53,VW,procure,power VW
+automotiveEngineering,53,auto parts supplier Robert Bosch,for promoting,diesel
+automotiveEngineering,53,auto parts supplier Robert Bosch,for promoting,emissions equipment
+automotiveEngineering,53,Congress,limit,climate change
+automotiveEngineering,54,Lexus,revised,RX
+automotiveEngineering,54,Lexus,revised,suspension
+automotiveEngineering,54,Lexus,with,thicker
+automotiveEngineering,54,Lexus,with,front
+automotiveEngineering,54,RX,with,thicker
+automotiveEngineering,54,RX,with,front
+automotiveEngineering,54,RX,with,stabilizer bars
+automotiveEngineering,54,suspension,with,stabilizer bars
+automotiveEngineering,55,car,of,Enzo Ferrari
+automotiveEngineering,55,car,of,Stradale stress
+automotiveEngineering,55,Stradale stress,of,Ferrari ‘ engine
+automotiveEngineering,55,Stradale stress,of,max
+automotiveEngineering,55,vehicle,of,Ferrari
+automotiveEngineering,55,turbo,with,motors
+automotiveEngineering,55,turbo,with,rear
+automotiveEngineering,55,arrival,of,RAC
+automotiveEngineering,56,Lexus RX,created,luxury crossover segment
+automotiveEngineering,56,Lexus RX,created,SUV
+automotiveEngineering,56,luxury crossover segment,of,Year competition
+automotiveEngineering,56,SUV,of,Year competition
+automotiveEngineering,56,Lexus RX,for,model year
+automotiveEngineering,56,Lexus RX,for,safety
+automotiveEngineering,56,spindle grille,with,taillights
+automotiveEngineering,56,spindle grille,like,taillights
+automotiveEngineering,56,model,except for,NuLuxe leatherette upholstery
+automotiveEngineering,56,model,of,NuLuxe leatherette upholstery
+automotiveEngineering,57,Explorer Hybrid,complemented by,hour battery
+automotiveEngineering,57,Explorer Hybrid,of,pound
+automotiveEngineering,57,Explorer Hybrid,of,feet
+automotiveEngineering,57,Explorer Hybrid,choose,Explorer Hybrid
+automotiveEngineering,57,Explorer Hybrid,uses,Explorer Hybrid
+automotiveEngineering,57,Explorer Hybrid,leap,Explorer Hybrid
+automotiveEngineering,57,highways,of,test route
+automotiveEngineering,58,Jaguar F,with,punchy powertrain
+automotiveEngineering,58,Pace SVR,captivated,punchy powertrain
+automotiveEngineering,58,Pace SVR,with,punchy powertrain
+automotiveEngineering,58,Europe,with,punchy powertrain
+automotiveEngineering,58,Jag,with,key difference
+automotiveEngineering,58,super SUV,with,key difference
+automotiveEngineering,58,shores,with,test vehicle
+automotiveEngineering,58,behaves,with,strung engine
+automotiveEngineering,58,behaves,with,drive system
+automotiveEngineering,59,Braun,From,standpoint
+automotiveEngineering,59,Braun,From,Braun
+automotiveEngineering,59,Keurig,From,standpoint
+automotiveEngineering,59,Keurig,From,Braun
+automotiveEngineering,59,Keurig,s,Braun
+automotiveEngineering,59,grille,cliched blacked,roof pillars
+automotiveEngineering,60,Skai,like,competitors
+automotiveEngineering,60,Skai,like,Alaka ’ i plans
+automotiveEngineering,60,Skai,like,Alaka ’ i vehicle
+automotiveEngineering,60,Skai,use,Alaka ’ i vehicle
+automotiveEngineering,60,Alaka ’ i plans,use,delivery van
+automotiveEngineering,60,Alaka ’ i vehicle,as,delivery van
+automotiveEngineering,60,t,use,lithium
+automotiveEngineering,60,t,use,ion batteries
+automotiveEngineering,61,sale,of,car
+automotiveEngineering,61,tax abatements,for,gasoline
+automotiveEngineering,61,incentives,for,diesel vehicles
+automotiveEngineering,61,perspective,of,types
+automotiveEngineering,61,perspective,of,incentives
+automotiveEngineering,61,Twitter,of,EV incentives
+automotiveEngineering,61,week,of,EV incentives
+automotiveEngineering,61,rebate,of,sale
+automotiveEngineering,61,point,of,sale
+automotiveEngineering,61,point,of,tax credit
+automotiveEngineering,62,prototype maglev train,with,km / h
+automotiveEngineering,62,prototype maglev train,of,mph
+automotiveEngineering,62,prototype maglev train,of,km / h
+automotiveEngineering,62,train,of,production
+automotiveEngineering,62,maglev train,between,Shanghai
+automotiveEngineering,62,passengers,between,Shanghai
+automotiveEngineering,62,plane,with,speed rail
+automotiveEngineering,62,plane,with,train
+automotiveEngineering,62,speed rail,with,train
+automotiveEngineering,62,train,off of,train
+automotiveEngineering,63,Cardi B,of,crap
+automotiveEngineering,63,Lamborghini Urus,of,vehicles
+automotiveEngineering,63,Lamborghini Urus,of,prancing bull
+automotiveEngineering,63,cabin,of,Lambo
+automotiveEngineering,63,trunk,of,Lambo
+automotiveEngineering,63,Lambo,challenge,Porsche
+automotiveEngineering,63,Lambo,challenge,Chevrolet Corvette
+automotiveEngineering,63,Lambo,like,Chevrolet Corvette
+automotiveEngineering,63,Porsche,of,performance
+automotiveEngineering,63,Chevrolet Corvette,of,performance
+automotiveEngineering,64,Zotye,of,Chinese
+automotiveEngineering,64,Zotye,of,built cars
+automotiveEngineering,64,move,with,sedan
+automotiveEngineering,64,US market,with,sedan
+automotiveEngineering,64,US market,with,hatchback
+automotiveEngineering,64,Volkswagen Tiguan,for,brand
+automotiveEngineering,64,Volkswagen Tiguan,for,car
+automotiveEngineering,64,Zotye,before,Zotye
+automotiveEngineering,65,Opel,of,General Motors empire
+automotiveEngineering,65,Opel,of,paths
+automotiveEngineering,65,Monday,unveiled,Grandland X Hybrid4 crossover
+automotiveEngineering,65,plug,of,electrification push
+automotiveEngineering,65,hybrid,of,electrification push
+automotiveEngineering,65,start,of,electrification push
+automotiveEngineering,65,motors,with,gas engine
+automotiveEngineering,65,axle,with,gas engine
+automotiveEngineering,65,combines,with,gas engine
+automotiveEngineering,66,hybrid,of,Grandland X
+automotiveEngineering,66,form,of,Grandland X
+automotiveEngineering,66,Grandland X,of,Opel
+automotiveEngineering,66,Grandland X,of,PSA Group parent
+automotiveEngineering,66,powertrain,of,Opel
+automotiveEngineering,66,powertrain,of,PSA Group parent
+automotiveEngineering,66,parts bin,of,Opel
+automotiveEngineering,66,parts bin,of,PSA Group parent
+automotiveEngineering,66,Crossback,as,Opel Grandland X
+automotiveEngineering,67,NHTSA,with,information
+automotiveEngineering,67,Mitsubishi Mirage,followed by,Chevrolet Corvette
+automotiveEngineering,67,Mitsubishi Mirage,followed by,Honda Fit
+automotiveEngineering,67,Mitsubishi Mirage,followed by,Kia Forte
+automotiveEngineering,67,Mitsubishi Mirage,followed by,Chevrolet Spark
+automotiveEngineering,67,Chevrolet Corvette,with,average
+automotiveEngineering,67,Kia Forte,with,average
+automotiveEngineering,67,Kia Forte,with,vehicles
+automotiveEngineering,67,subcompact Mirage,of,vehicles
+automotiveEngineering,67,subcompact Mirage,of,sale today
+automotiveEngineering,68,Mercedes,overlooked because,sexy
+automotiveEngineering,68,row sport utility,overlooked because,sexy
+automotiveEngineering,68,Mercs,of,GLS
+automotiveEngineering,68,model,of,SUV
+automotiveEngineering,68,model,of,design
+automotiveEngineering,68,model,of,review
+automotiveEngineering,68,year,of,SUV
+automotiveEngineering,68,style,of,luxury utility persona
+automotiveEngineering,68,part,of,luxury utility persona
+automotiveEngineering,69,Tesla,added,Tesla Navigate
+automotiveEngineering,69,Autopilot feature,of,upgrade
+automotiveEngineering,69,Autopilot feature,of,package
+automotiveEngineering,69,upgrade,of,driver assist features
+automotiveEngineering,69,package,of,driver assist features
+automotiveEngineering,69,Autopilot,found,Tesla
+automotiveEngineering,69,driver,must first change,system
+automotiveEngineering,70,EPA figures,of,Hyundai Kona
+automotiveEngineering,70,Hyundai Kona,of,miles
+automotiveEngineering,70,kWh battery,powers,kW
+automotiveEngineering,70,kW charger,recharge,ion battery pack
+automotiveEngineering,70,Subaru Crosstrek,cousin,Kia Niro EV
+automotiveEngineering,70,Mazda,cousin,Kia Niro EV
+automotiveEngineering,70,Honda HR,cousin,Kia Niro EV
+automotiveEngineering,70,V,cousin,Kia Niro EV
+automotiveEngineering,70,Kona,cousin,Kia Niro EV
+automotiveEngineering,71,CLS,distinguishing,characteristic
+automotiveEngineering,71,characteristic,from,cabin
+automotiveEngineering,71,grille,with,pellets
+automotiveEngineering,71,highlight,with,pellets
+automotiveEngineering,71,pellets,from,Mercedes logo
+automotiveEngineering,71,cabin,with,dashboard
+automotiveEngineering,71,test vehicle,included,subtle LED
+automotiveEngineering,71,test vehicle,included,door
+automotiveEngineering,71,test vehicle,included,seamless line
+automotiveEngineering,71,test vehicle,door in,seamless line
+automotiveEngineering,72,couple,of,CTR
+automotiveEngineering,72,CTR,light blinking,CTR
+automotiveEngineering,72,traction control,light blinking,CTR
+automotiveEngineering,72,racing line,without,data logger
+automotiveEngineering,72,Willow Springs,without,data logger
+automotiveEngineering,72,Willow Springs,without,doh
+automotiveEngineering,72,laps,without,data logger
+automotiveEngineering,72,equipment,of,Michelin Pilot Sport
+automotiveEngineering,72,set,of,Michelin Pilot Sport
+automotiveEngineering,72,TireRack,shipped,set
+automotiveEngineering,73,section,of,Bentley Flying Spur
+automotiveEngineering,73,Flying Spur,of,Bentley
+automotiveEngineering,73,saloon world,with,Mercedes
+automotiveEngineering,73,gunnels,with,Mercedes
+automotiveEngineering,73,gunnels,with,AMG
+automotiveEngineering,73,gunnels,with,BMW
+automotiveEngineering,73,gunnels,like,AMG
+automotiveEngineering,73,AMG,welcome,fold
+automotiveEngineering,74,Land Rover,off of,Discovery Sport
+automotiveEngineering,74,Discovery Sport,for,SUV
+automotiveEngineering,74,cylinder,that,wheel drive
+automotiveEngineering,74,cylinder,mated,wheel drive
+automotiveEngineering,74,R,for,gas engine
+automotiveEngineering,74,Dynamic HSE,for,gas engine
+automotiveEngineering,75,drive architecture,named,Durango
+automotiveEngineering,75,competitor,named,Durango
+automotiveEngineering,75,dynamics,for,front overhang
+automotiveEngineering,75,dynamics,with,front overhang
+automotiveEngineering,75,dynamics,with,wheelbase
+automotiveEngineering,76,Blazer shares,with,Cadillac
+automotiveEngineering,76,Blazer shares,with,cylinder engine
+automotiveEngineering,76,Blazer underpinnings,with,Cadillac
+automotiveEngineering,76,Blazer underpinnings,with,cylinder engine
+automotiveEngineering,76,Blazer underpinnings,with,wheel drive
+automotiveEngineering,76,engine,with,cylinder engine
+automotiveEngineering,76,Blazer Premier,engaging than,class
+automotiveEngineering,76,Blazer Premier,of,class
+automotiveEngineering,76,flow,of,power
+automotiveEngineering,76,flow,of,way
+automotiveEngineering,77,box,might rank below,minivan
+automotiveEngineering,77,Wagons,of,wheel drive
+automotiveEngineering,77,changes,of,wheel drive
+automotiveEngineering,77,ride,with,AWD
+automotiveEngineering,77,Buick Regal TourX,of,space
+automotiveEngineering,77,TourX,makes,power lift gate
+automotiveEngineering,77,TourX,load,items
+automotiveEngineering,77,TourX,load,power lift gate
+automotiveEngineering,77,TourX,load,ride
+automotiveEngineering,77,power lift gate,height than,crossovers
+automotiveEngineering,78,Michelin,of,performance tires
+automotiveEngineering,79,problem,of,turbo engine
+automotiveEngineering,79,concerns,of,turbo engine
+automotiveEngineering,79,durability,of,turbo engine
+automotiveEngineering,79,Honda,of,mind
+automotiveEngineering,79,memo sent,of,auto campaigns
+automotiveEngineering,79,dealers,of,auto campaigns
+automotiveEngineering,79,Honda,of,auto campaigns
+automotiveEngineering,79,Honda,of,Brad Ortloff
+automotiveEngineering,79,manager,of,auto campaigns
+automotiveEngineering,79,manager,of,Brad Ortloff
+automotiveEngineering,80,Pontiac,of,track driving
+automotiveEngineering,80,Pontiac,of,street drives
+automotiveEngineering,80,Michigan,for,track driving
+automotiveEngineering,80,Michigan,for,street drives
+automotiveEngineering,80,Michigan,of,track driving
+automotiveEngineering,80,Michigan,of,street drives
+automotiveEngineering,81,volume sports car,from,Supra
+automotiveEngineering,81,Supra,with,metal
+automotiveEngineering,81,Supra,with,bubbles
+automotiveEngineering,81,bubbles,of,driver
+automotiveEngineering,81,bubbles,of,passenger
+automotiveEngineering,81,driver,from,Iconic
+automotiveEngineering,81,driver,from,Toyota
+automotiveEngineering,81,passenger,from,Toyota
+automotiveEngineering,81,side,of,side glass
+automotiveEngineering,81,Supra body,of,side
+automotiveEngineering,82,BMW,like,thruster
+automotiveEngineering,82,jet,reserved for,enthusiast
+automotiveEngineering,82,thruster,reserved for,enthusiast
+automotiveEngineering,82,player,with,Mercedes AMG
+automotiveEngineering,82,player,with,Lexus LC
+automotiveEngineering,83,midsize crossover,slot between,Equinox
+automotiveEngineering,83,midsize crossover,slot between,size Traverse
+automotiveEngineering,83,Equinox,sized,crossover
+automotiveEngineering,83,Equinox,with,name
+automotiveEngineering,83,crossover,with,bonus
+automotiveEngineering,83,proof point,as,police cruiser drive
+automotiveEngineering,83,police cruiser drive,through,MotorTrend
+automotiveEngineering,83,police cruiser drive,through,parking lot
+automotiveEngineering,83,cruiser,checking,cruiser
+automotiveEngineering,83,cruiser,until,cruiser
+automotiveEngineering,84,Toyota,redoing,Toyota car lineup
+automotiveEngineering,84,Lexus,with,parts
+automotiveEngineering,84,year,of,luxury ride
+automotiveEngineering,84,ve,of,luxury ride
+automotiveEngineering,84,Lexus,of,luxury ride
+automotiveEngineering,84,Lexus,with,look
+automotiveEngineering,84,Lexus,with,step
+automotiveEngineering,84,step,for,Toyota Avalon
+automotiveEngineering,84,seat riders,of,head
+automotiveEngineering,85,BMW iNext,storm,luxury brand
+automotiveEngineering,85,BMW iNext,as,luxury brand
+automotiveEngineering,85,display,set for,Curved Display
+automotiveEngineering,85,Curved Display,for,driver
+automotiveEngineering,85,BMW,of,BMW
+automotiveEngineering,85,BMW,of,functions
+automotiveEngineering,85,unit,of,design element
+automotiveEngineering,85,Drivers,of,display
+automotiveEngineering,85,points,of,display
+automotiveEngineering,85,display,from,consumer electronics
+automotiveEngineering,86,Buick LaCrosse,like,Chevrolet Impala
+automotiveEngineering,86,Buick LaCrosse,like,Volt
+automotiveEngineering,86,order,for,crossover lineup
+automotiveEngineering,86,room,for,crossover lineup
+automotiveEngineering,86,dealership lots,for,crossover lineup
+automotiveEngineering,86,crossover lineup,liquidate,s left
+automotiveEngineering,86,crossover lineup,liquidate,LaCrosse stock
+automotiveEngineering,86,crossover lineup,of,LaCrosse stock
+automotiveEngineering,86,Buick,liquidate,LaCrosse stock
+automotiveEngineering,86,Buick,of,LaCrosse stock
+automotiveEngineering,87,BMW,of,concept car
+automotiveEngineering,87,concept car,from,Concorso d ’ Eleganza Villa d ’ Este
+automotiveEngineering,87,Geneva Motor Show,of,brand
+automotiveEngineering,87,BMW,with,surprise show car
+automotiveEngineering,87,BMW,with,Geneva
+automotiveEngineering,87,BMW,for,Geneva
+automotiveEngineering,87,surprise show car,for,Geneva
+automotiveEngineering,87,Geneva,of,Garmisch
+automotiveEngineering,87,Garmisch,of,grille
+automotiveEngineering,87,grille,with,glass
+automotiveEngineering,88,WKAR,for,Ken Kornas
+automotiveEngineering,88,WKAR,for,debut
+automotiveEngineering,88,Cadillac Product Manager,for,Ken Kornas
+automotiveEngineering,88,Cadillac Product Manager,for,debut
+automotiveEngineering,88,spoiler,ventilated,suspension setup
+automotiveEngineering,88,spoiler,as,suspension setup
+automotiveEngineering,88,spoiler,as,alloy wheels
+automotiveEngineering,88,Ken Kornas,of,models
+automotiveEngineering,89,theory,of,kW
+automotiveEngineering,89,output upwards,of,kW
+automotiveEngineering,89,Audi ’ s,with,grille
+automotiveEngineering,89,Audi ’ s,with,fascia
+automotiveEngineering,89,e,with,grille
+automotiveEngineering,89,e,with,fascia
+automotiveEngineering,89,tron,with,grille
+automotiveEngineering,89,tron,with,fascia
+automotiveEngineering,89,tron,with,attitude
+automotiveEngineering,89,brakes,of,test vehicles

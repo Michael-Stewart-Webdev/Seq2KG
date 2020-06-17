@@ -1,0 +1,1 @@
+bert-serving-start -model_dir cased_L-12_H-768_A-12 -num_worker=1 -max_seq_len=100 -pooling_strategy=NONE

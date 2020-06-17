@@ -1,0 +1,10 @@
+{
+	"dataset": "cateringServices",
+	"embedding_dim": 768,
+	"hidden_dim": 768,
+	"max_epochs": 2000,
+	"learning_rate": 0.00001,
+	"max_seq_len": 10,
+	"stop_condition": 5,
+	"batch_size": 5
+}

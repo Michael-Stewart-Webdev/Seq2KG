@@ -1,0 +1,6 @@
+venv/*
+apex/*
+elmo/*
+__pycache__
+*.pyc
+apex

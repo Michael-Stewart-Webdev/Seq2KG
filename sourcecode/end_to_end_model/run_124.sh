@@ -1,0 +1,1 @@
+python train.py bbn && python train.py cateringServices && python train.py automotiveEngineering && python triples_from_test_data.py bbn
