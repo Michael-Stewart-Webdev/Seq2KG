@@ -1,4 +1,4 @@
-# Text2KG
+# Seq2KG
 
 A collection of models for the paper "Seq2KG: An End-to-End Neural Model for Domain Agnostic Knowledge Graph (not Text Graph) Construction from Text" by Michael Stewart and Wei Liu.
 
