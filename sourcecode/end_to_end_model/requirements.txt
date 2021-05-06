@@ -27,7 +27,7 @@ en-core-web-sm==2.1.0
 fairseq==0.7.1
 flaky==3.6.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 ftfy==5.5.1
 gensim==3.8.0
 gevent==1.4.0
