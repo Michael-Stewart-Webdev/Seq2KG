@@ -54,7 +54,7 @@ murmurhash==1.0.2
 networkx==2.3
 neuralcoref==4.0
 nltk==3.4.4
-numpy==1.16.4
+numpy==1.22.0
 numpydoc==0.9.1
 overrides==1.9
 packaging==19.0
